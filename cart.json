@@ -1,0 +1,34 @@
+ [
+    {
+      "id": 4,
+      "title": "OPPOF19",
+      "brand": "OPPO",
+      "thumbnail": "https://i.dummyjson.com/data/products/4/thumbnail.jpg",
+      "price": 280,
+      "quantity": 1
+    },
+    {
+      "id": 18,
+      "title": "Oil Free Moisturizer 100ml",
+      "brand": "Dermive",
+      "thumbnail": "https://i.dummyjson.com/data/products/18/thumbnail.jpg",
+      "price": 40,
+      "quantity": 3
+    },
+    {
+      "id": 2,
+      "title": "iPhone X",
+      "brand": "Apple",
+      "thumbnail": "https://i.dummyjson.com/data/products/2/thumbnail.jpg",
+      "price": 899,
+      "quantity": 1
+    },
+    {
+      "id": 3,
+      "title": "Samsung Universe 9",
+      "brand": "Samsung",
+      "thumbnail": "https://cdn.dummyjson.com/product-images/3/thumbnail.jpg",
+      "price": 1249,
+      "quantity": 1
+    }
+  ]
